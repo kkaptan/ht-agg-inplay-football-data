@@ -1,11 +1,11 @@
 _description,_OUTPUT,averageAgeDiff,shotTotalDiff,shotOnGoalDiff,passTotalDiff,passLongDiff,passSuccessDiff,passForwardDiff,passBackwardDiff,passTargetFinalThirdDiff,passTargetMiddleThirdDiff,passTargetDefensiveThirdDiff,cornerFavourDiff,cornerAgainstDiff,foulReceivedDiff,foulCommitedDiff,assistShotDiff,assistShotIntentionalDiff,assistShotIntentionalGoalDiff,crossFavourTotalDiff,crossFavourSuccessDiff,crossAgainstTotalDiff,offsideCommittedDiff,offsideReceivedDiff,possessionAttackDiff,possessionTotalDiff,possessionDefenceDiff,interceptionDiff,cardYellowDiff,cardRedDiff,tackleTotalDiff,tackleSuccessDiff,dribbleTotalDiff,dribbleSuccessDiff,goalDiff
-Bournemouth v Man City,2,-0.5,-5,-4,-148,15,-157,-107,-49,-88,-89,23,-1,1,2,-2,-7,-5,-1,-6,-2,0,-1,0,-167,-148,19,-2,1,0,-1,0,0,1,0
-Chelsea v Everton,0,-0.3,8,6,5,-3,4,13,-9,35,-16,-13,2,-2,-1,1,6,4,2,1,1,0,0,0,62,-6,-68,-8,-1,0,-4,-6,0,-2,2
-Crystal Palace v Swansea,2,0.5,0,-2,-112,-25,-108,-55,-54,30,-101,-38,-1,1,-1,1,0,-2,-1,3,-2,0,-2,0,-3,-106,-103,7,1,0,0,2,-3,2,-1
-Huddersfield v Southampton,1,-0.8,7,8,-18,1,-22,-8,9,81,-62,-18,3,-3,-1,1,5,6,0,19,5,0,-1,0,93,-27,-120,1,-1,0,2,1,3,-1,0
-Liverpool v Arsenal,0,-2.2,8,3,47,11,49,28,33,44,5,7,1,-1,2,-2,8,4,1,9,4,0,0,0,63,59,-4,3,0,0,-3,-1,-3,2,2
-Man Utd v Leicester,0,-0.3,12,7,157,-16,172,104,68,103,51,22,2,-2,0,0,9,6,0,19,3,0,0,0,172,179,7,-2,0,0,-13,-5,9,8,0
-Newcastle v West Ham,0,-2.6,4,3,-65,-23,-57,-24,-36,13,-54,-22,-1,1,-6,6,5,3,1,2,3,0,-2,0,-2,-66,-64,5,-1,0,1,-1,-4,-2,1
-Tottenham v Burnley,1,-2.4,9,9,192,-11,194,120,77,63,109,25,1,-1,-2,2,7,1,0,5,1,0,0,0,163,188,25,-7,0,0,-4,0,7,4,0
-Watford v Brighton,1,-0.6,-4,-3,-23,-17,-28,-14,-17,-6,20,-46,-1,1,4,-4,-3,-1,0,-9,-3,0,-2,0,-22,-31,-9,2,-1,1,0,-1,-2,-1,0
-West Brom v Stoke,1,-0.2,-6,-2,-86,-1,-96,-33,-48,-26,-38,-17,2,-2,1,-1,-6,-3,0,5,-1,0,1,0,-89,-113,-24,-4,-1,0,2,-1,-5,-3,0
+Bournemouth v Man City,2,-0.50,-5,-4,-148,15,-157,-107,-49,-88,-89,23,-1,1,2,-2,-7,-5,-1,-6,-2,0,-1,0,-167,-148,19,-2,1,0,-1,0,0,1,0
+Chelsea v Everton,0,-0.30,8,6,5,-3,4,13,-9,35,-16,-13,2,-2,-1,1,6,4,2,1,1,0,0,0,62,-6,-68,-8,-1,0,-4,-6,0,-2,2
+Crystal Palace v Swansea,2,0.50,0,-2,-112,-25,-108,-55,-54,30,-101,-38,-1,1,-1,1,0,-2,-1,3,-2,0,-2,0,-3,-106,-103,7,1,0,0,2,-3,2,-1
+Huddersfield v Southampton,1,-0.80,7,8,-18,1,-22,-8,9,81,-62,-18,3,-3,-1,1,5,6,0,19,5,0,-1,0,93,-27,-120,1,-1,0,2,1,3,-1,0
+Liverpool v Arsenal,0,-2.20,8,3,47,11,49,28,33,44,5,7,1,-1,2,-2,8,4,1,9,4,0,0,0,63,59,-4,3,0,0,-3,-1,-3,2,2
+Man Utd v Leicester,0,-0.30,12,7,157,-16,172,104,68,103,51,22,2,-2,0,0,9,6,0,19,3,0,0,0,172,179,7,-2,0,0,-13,-5,9,8,0
+Newcastle v West Ham,0,-2.60,4,3,-65,-23,-57,-24,-36,13,-54,-22,-1,1,-6,6,5,3,1,2,3,0,-2,0,-2,-66,-64,5,-1,0,1,-1,-4,-2,1
+Tottenham v Burnley,1,-2.40,9,9,192,-11,194,120,77,63,109,25,1,-1,-2,2,7,1,0,5,1,0,0,0,163,188,25,-7,0,0,-4,0,7,4,0
+Watford v Brighton,1,-0.60,-4,-3,-23,-17,-28,-14,-17,-6,20,-46,-1,1,4,-4,-3,-1,0,-9,-3,0,-2,0,-22,-31,-9,2,-1,1,0,-1,-2,-1,0
+West Brom v Stoke,1,-0.20,-6,-2,-86,-1,-96,-33,-48,-26,-38,-17,2,-2,1,-1,-6,-3,0,5,-1,0,1,0,-89,-113,-24,-4,-1,0,2,-1,-5,-3,0
